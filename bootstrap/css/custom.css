@@ -1,0 +1,22 @@
+@font-face {
+	font-family: byekan;
+    src: url(../fonts/BYekan.ttf);
+}
+
+@font-face {
+    font-family: Sabafont;
+    src: url(../fonts/saba.woff);
+}
+
+body{
+
+	font-family:Sabafont;    
+
+}
+
+h1,h2{
+
+    font-family:byekan;
+
+}
+
